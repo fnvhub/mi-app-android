@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Apagar Pantalla</string>
+    <string name="widget_name">Botón Apagar / Bloquear</string>
+    <string name="widget_description">Widget de 1 toque para apagar la pantalla o mostrar el menú de encendido.</string>
+    <string name="accessibility_service_label">Servicio para Apagar Pantalla</string>
+    <string name="accessibility_service_description">Permite apagar la pantalla o abrir el menú de encendido/apagado al pulsar el botón o widget sin utilizar el botón físico de encendido.</string>
+    <string name="tile_label">Apagar Pantalla</string>
+    <string name="device_admin_description">Permite apagar y bloquear la pantalla del dispositivo como alternativa rápida.</string>
+</resources>

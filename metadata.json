@@ -1,0 +1,6 @@
+{
+  "name": "Apagar Pantalla",
+  "description": "Apaga y bloquea la pantalla o abre el menú de apagado con un solo toque y mediante widget sin usar el botón físico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
